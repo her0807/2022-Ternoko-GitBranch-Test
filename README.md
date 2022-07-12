@@ -5,5 +5,5 @@
 - 바니
 - 애쉬
 - [아놀드](https://github.com/sanaandmomo)
-- [열음](Yeoleum.md)
 - [록바](lokba.md)
+- [열음](Yeoleum.md)
