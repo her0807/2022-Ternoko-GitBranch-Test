@@ -1,6 +1,6 @@
 ## 면담은 터놓고!
 
-- [수1달](sudal.md)
+- [수2달](sudal.md)
 - [앤지](ANGIE.md)
 - [바니](BUNNY.md)
 - [애쉬](ash.md)
